@@ -75,8 +75,8 @@ const cesar = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cerirocha&show_icons=true&theme=radical&border_radius=10&hide_border=false&bg_color=0d1117&title_color=FFD200&icon_color=f7971e&text_color=ffffff&border_color=f7971e&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerirocha&layout=compact&theme=radical&bg_color=0d1117&title_color=FFD200&text_color=ffffff&border_color=f7971e&border_radius=10" height="165"/>
+<img src="https://github-readme-stats-liart-seven-17.vercel.app/api?username=cerirocha&show_icons=true&theme=radical&border_radius=10&hide_border=false&bg_color=0d1117&title_color=FFD200&icon_color=f7971e&text_color=ffffff&border_color=f7971e&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-liart-seven-17.vercel.app/api/top-langs/?username=cerirocha&layout=compact&theme=radical&bg_color=0d1117&title_color=FFD200&text_color=ffffff&border_color=f7971e&border_radius=10" height="165"/>
 
 </div>
 
