@@ -75,7 +75,7 @@ const cesar = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cerirocha&show_icons=true&theme=radical&border_radius=10&hide_border=false&bg_color=0d1117&title_color=FFD200&icon_color=f7971e&text_color=ffffff&border_color=f7971e" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cerirocha&show_icons=true&theme=radical&border_radius=10&hide_border=false&bg_color=0d1117&title_color=FFD200&icon_color=f7971e&text_color=ffffff&border_color=f7971e&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerirocha&layout=compact&theme=radical&bg_color=0d1117&title_color=FFD200&text_color=ffffff&border_color=f7971e&border_radius=10" height="165"/>
 
 </div>
@@ -92,6 +92,14 @@ const cesar = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cerirocha&theme=radical&no-bg=true&no-frame=false&column=6&margin-w=5"/>
+</div>
+
+---
+
+## 📈 Actividad este año
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cerirocha&theme=react-dark&bg_color=0d1117&color=FFD200&line=f7971e&point=ffffff&area=true&area_color=f7971e&hide_border=false&border_color=f7971e&radius=10" width="100%"/>
 </div>
 
 ---
