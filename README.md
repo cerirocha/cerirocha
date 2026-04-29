@@ -59,7 +59,7 @@ const cesar = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
- 
+
 ### Base de Datos & DevOps
 <p>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
@@ -75,7 +75,7 @@ const cesar = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-liart-seven-17.vercel.app/api?username=cerirocha&show_icons=true&theme=radical&border_radius=10&hide_border=false&bg_color=0d1117&title_color=FFD200&icon_color=f7971e&text_color=ffffff&border_color=f7971e&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-liart-seven-17.vercel.app/api?username=cerirocha&show_icons=true&theme=radical&border_radius=10&hide_border=false&bg_color=0d1117&title_color=FFD200&icon_color=f7971e&text_color=ffffff&border_color=f7971e&include_all_commits=true&count_private=true&hide=prs&cache_seconds=1" height="165"/>
 <img src="https://github-readme-stats-liart-seven-17.vercel.app/api/top-langs/?username=cerirocha&layout=compact&theme=radical&bg_color=0d1117&title_color=FFD200&text_color=ffffff&border_color=f7971e&border_radius=10" height="165"/>
 
 </div>
@@ -119,3 +119,4 @@ Si tienes un proyecto, una idea o simplemente quieres conectar, aquí estoy:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,50:FFD200,100:f7971e&height=100&section=footer" width="100%"/>
 </div>
+
