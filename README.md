@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,50:FFD200,100:f7971e&height=200&section=header&text=César%20Rocha&fontSize=60&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=César%20Rocha&fontSize=60&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- FRASE -->
 ### 💻 Creo aplicaciones web de principio a fin — sin magia, solo código que funciona.
@@ -94,5 +94,5 @@ Si tienes un proyecto, una idea o simplemente quieres conectar, aquí estoy:
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,50:FFD200,100:f7971e&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
 </div>
